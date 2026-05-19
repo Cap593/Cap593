@@ -37,6 +37,7 @@ I enjoy building low-level software for microcontrollers, experimenting with AUT
 - SHA Hashing
 - AES Encryption
 - RSA Concepts
+- CMAC Generation/Verification
 - TRNG / PRNG
 - Secure Boot Verification
 - OpenSSL and CyberChef Validation
