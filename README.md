@@ -1,6 +1,6 @@
 # Hi, I’m Suhas 👋
 
-## Embedded Software Engineer | AUTOSAR | MCU | Cybersecurity
+## Embedded Software Engineer | AUTOSAR | MCU | Embedded Cybersecurity
 
 Passionate about embedded systems, automotive software architecture, and cybersecurity-focused firmware development.
 
